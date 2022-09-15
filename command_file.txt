@@ -1,0 +1,19 @@
+load Aircraft.avl
+mass Aircraft.mass
+MSET
+
+PLOP
+g
+
+OPER
+c1
+v 30
+
+d1 pm 0
+x
+st
+Aircraft.st
+fs
+Aircraft.fs
+
+Quit
